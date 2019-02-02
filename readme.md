@@ -1,7 +1,7 @@
 # gulp-simple-env
 
-![](https://badge.fury.io/js/%40zebrajaeger%2Fgulp-simple-env.svg)
-![LICENSE.txt](https://img.shields.io/github/license/zebrajaeger/gulp-simple-env.svg?style=flat)
+[![NPM version][npm-image]][npm-url]
+[![License][license-image]][license-url]
 
 ## Define your environments
 I.E. we define two environments: 'foo' and 'bar'.
@@ -55,4 +55,7 @@ As an alternative you can provide a trueStream and a falseStream
             .pipe(e.isFoo(print()))
     });
 
- 
+[npm-image]: https://img.shields.io/npm/v/camel-case.svg?style=flat
+[npm-url]: https://npmjs.org/package/camel-case
+[license-image]: https://img.shields.io/github/license/zebrajaeger/gulp-simple-env.svg?style=flat
+[license-url]: https://github.com/zebrajaeger/gulp-simple-env/blob/master/LICENSE.txt
