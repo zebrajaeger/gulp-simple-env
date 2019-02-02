@@ -4,7 +4,7 @@ const through2 = require('through2');
 module.exports = cfg => {
 
     if (!cfg.env) {
-        throw new Error('myenv: env is required in config');
+        throw new Error('gulp-simple-env: env is required in config');
     }
 
     let x = {};
