@@ -1,5 +1,8 @@
 # gulp-simple-env
 
+![](https://badge.fury.io/js/%40zebrajaeger%2Fgulp-simple-env.svg)
+![](https://img.shields.io/github/license/zebrajaeger/gulp-simple-env.svg?style=flat)
+
 ## Define your environments
 I.E. we define two environments: 'foo' and 'bar'.
 
