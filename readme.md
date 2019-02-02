@@ -2,6 +2,7 @@
 
 [![NPM version][npm-image]][npm-url]
 [![License][license-image]][license-url]
+[![Size][size-image]][size-url]
 
 ## Define your environments
 I.E. we define two environments: 'foo' and 'bar'.
@@ -60,3 +61,6 @@ As an alternative you can provide a trueStream and a falseStream
 
 [license-image]: https://img.shields.io/github/license/zebrajaeger/gulp-simple-env.svg?style=flat
 [license-url]: https://github.com/zebrajaeger/gulp-simple-env/blob/master/LICENSE.txt
+
+[size-image]: https://img.shields.io/github/size/zebrajaeger/gulp-simple-env/index.js.svg?style=flat
+[size-url]: https://github.com/zebrajaeger/gulp-simple-env/blob/master/index.js
