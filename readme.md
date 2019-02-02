@@ -55,7 +55,8 @@ As an alternative you can provide a trueStream and a falseStream
             .pipe(e.isFoo(print()))
     });
 
-[npm-image]: https://img.shields.io/npm/v/camel-case.svg?style=flat
-[npm-url]: https://npmjs.org/package/camel-case
+[npm-image]: https://img.shields.io/npm/v/@zebrajaeger/gulp-simple-env.svg?style=flat
+[npm-url]: https://npmjs.org/zebrajaeger/gulp-simple-env
+
 [license-image]: https://img.shields.io/github/license/zebrajaeger/gulp-simple-env.svg?style=flat
 [license-url]: https://github.com/zebrajaeger/gulp-simple-env/blob/master/LICENSE.txt
